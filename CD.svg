@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="21px"
+   height="15px"
+   viewBox="0 0 21 15"
+   version="1.1"
+   id="svg31"
+   sodipodi:docname="CD.svg"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)">
+  <metadata
+     id="metadata35">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="704"
+     inkscape:window-height="480"
+     id="namedview33"
+     showgrid="false"
+     inkscape:zoom="52.761905"
+     inkscape:cx="10.5"
+     inkscape:cy="7.5"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg31"
+     inkscape:document-rotation="0" />
+  <!-- Generator: sketchtool 46 (44423) - http://www.bohemiancoding.com/sketch -->
+  <title
+     id="title2">CD</title>
+  <desc
+     id="desc4">Created with sketchtool.</desc>
+  <defs
+     id="defs21">
+    <linearGradient
+       x1="50%"
+       y1="0%"
+       x2="50%"
+       y2="100%"
+       id="linearGradient-1">
+      <stop
+         stop-color="#FFFFFF"
+         offset="0%"
+         id="stop6" />
+      <stop
+         stop-color="#F0F0F0"
+         offset="100%"
+         id="stop8" />
+    </linearGradient>
+    <linearGradient
+       x1="50%"
+       y1="0%"
+       x2="50%"
+       y2="100%"
+       id="linearGradient-2">
+      <stop
+         stop-color="#158AFF"
+         offset="0%"
+         id="stop11" />
+      <stop
+         stop-color="#007FFF"
+         offset="100%"
+         id="stop13" />
+    </linearGradient>
+    <linearGradient
+       x1="50%"
+       y1="0%"
+       x2="50%"
+       y2="100%"
+       id="linearGradient-3">
+      <stop
+         stop-color="#CE1120"
+         offset="0%"
+         id="stop16" />
+      <stop
+         stop-color="#E11B2B"
+         offset="100%"
+         id="stop18" />
+    </linearGradient>
+    <linearGradient
+       x1="50%"
+       y1="0%"
+       x2="50%"
+       y2="100%"
+       id="linearGradient4892">
+      <stop
+         stop-color="#ffffff"
+         offset="0%"
+         id="stop50" />
+      <stop
+         stop-color="#f0f0f0"
+         offset="100%"
+         id="stop52" />
+    </linearGradient>
+    <linearGradient
+       x1="50%"
+       y1="0%"
+       x2="50%"
+       y2="100%"
+       id="linearGradient8758">
+      <stop
+         stop-color="#747474"
+         offset="0%"
+         id="stop55" />
+      <stop
+         stop-color="#686868"
+         offset="100%"
+         id="stop57" />
+    </linearGradient>
+    <linearGradient
+       x1="50%"
+       y1="0%"
+       x2="50%"
+       y2="100%"
+       id="linearGradient914">
+      <stop
+         stop-color="#4b4b4b"
+         offset="0%"
+         id="stop60" />
+      <stop
+         stop-color="#585858"
+         offset="100%"
+         id="stop62" />
+    </linearGradient>
+  </defs>
+  <g
+     id="Symbols"
+     stroke="none"
+     stroke-width="1"
+     fill="none"
+     fill-rule="evenodd">
+    <g
+       id="CD">
+      <rect
+         id="FlagBackground"
+         fill="url(#linearGradient4892)"
+         x="0"
+         y="0"
+         width="21"
+         height="15" />
+      <g
+         id="Group-2"
+         transform="translate(-4.290000, -1.440000)">
+        <rect
+           id="Mask-Copy"
+           fill="url(#linearGradient8758)"
+           x="4.29377901"
+           y="1.44262682"
+           width="21"
+           height="15" />
+        <polygon
+           id="Rectangle-69-Copy"
+           fill="#c9c9c9"
+           transform="translate(14.281566, 9.255882) rotate(153.000000) translate(-14.281566, -9.255882) "
+           points="-0.2184339 6.25588182 28.7815661 6.25588182 28.7815661 12.2558818 -0.2184339 12.2558818" />
+        <rect
+           id="Rectangle-69"
+           fill="url(#linearGradient914)"
+           transform="translate(14.557467, 9.073824) rotate(153.000000) translate(-14.557467, -9.073824) "
+           x="0.0574665988"
+           y="7.07382404"
+           width="29"
+           height="4" />
+        <polygon
+           id="Star-8"
+           fill="#c9c9c9"
+           points="7.79377901 5.91762686 6.32431588 6.9651693 6.86649887 5.2439184 5.41613772 4.17008433 7.22068837 4.15383522 7.79377901 2.44262682 8.36686965 4.15383522 10.1714203 4.17008433 8.72105915 5.2439184 9.26324214 6.9651693" />
+      </g>
+    </g>
+  </g>
+</svg>
